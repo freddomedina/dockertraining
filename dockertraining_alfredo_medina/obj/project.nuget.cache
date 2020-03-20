@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uTMAvS8bske24kQKwDJ2qZOs+09RiEUSAKM8hoG5hkImcnkU69/ZEFzEMj6hVolaVUMZp1V9HeYNnregjQE3VA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alfredo\\Desktop\\dockertraining_alfredo_medina\\dockertraining_alfredo_medina\\dockertraining_alfredo_medina.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alfredo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
